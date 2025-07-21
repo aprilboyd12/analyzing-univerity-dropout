@@ -47,5 +47,5 @@ This analysis is guided by five central research questions:
 
 - Data is anonymized and used strictly for educational purposes.
 - Not all potential dropout predictors are included (e.g., mental health, family support).
-- Ethical consideration has been taken to **avoid bias in interpretation**—correlation does not imply causation.
+- Ethical consideration has been taken to **avoid bias in interpretation**.
 - Results should be viewed as **guidance**, not deterministic conclusions.
